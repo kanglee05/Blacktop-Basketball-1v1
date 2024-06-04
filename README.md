@@ -9,3 +9,9 @@ User starts at 3-point line at start of the game. Has option to shoot, dribble, 
 
 Dribble moves the user one level closer (ex: 3-point line to mid-range), crossover moves the user two levels closer.
 
+Probability of successfully making the shot increases the closer the user is to the basket.
+
+Computer has probability to steal the ball depending on the difficulty level chosen by the user.
+
+Happy playing :)
+
