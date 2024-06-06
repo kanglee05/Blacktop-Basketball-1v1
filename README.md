@@ -13,5 +13,5 @@ Probability of successfully making the shot increases the closer the user is to 
 
 Computer has probability to steal the ball depending on the difficulty level chosen by the user.
 
-Happy playing :)
+Happy hoops! :)
 
